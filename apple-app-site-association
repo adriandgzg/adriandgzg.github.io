@@ -4,9 +4,7 @@
         "details": [
             {
                 "appID": "95GB72XJX7.mx.com.liverpool.appcliente",
-                "paths": [ "/UniversalLinks/index",
-                             "/UniversalLinks/home",
-                             "/UniversalLinks/about"]
+                "paths": [ "/UniversalLinks/*"]
             }
         ]
     }
