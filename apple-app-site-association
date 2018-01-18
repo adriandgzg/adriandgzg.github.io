@@ -3,7 +3,8 @@
   "apps": [],
    "details": {
     "95GB72XJX7.mx.com.liverpool.appcliente":{
-      "paths": ["/UniversalLinks/*" ]
+      "paths": ["/tienda/home.jsp",
+                "/UniversalLinks/*" ]
     }
   }
  },
