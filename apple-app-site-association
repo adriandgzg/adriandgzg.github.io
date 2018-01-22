@@ -4,7 +4,7 @@
    "details": {
     "95GB72XJX7.mx.com.liverpool.appcliente":{
       "paths": ["/tienda/home.jsp",
-                "/tienda/group/*/SCL???????"
+                "/tienda/group/*/SCL???????",
                 "/UniversalLinks/*" ]
     }
   }
