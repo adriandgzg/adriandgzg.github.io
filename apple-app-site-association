@@ -4,6 +4,11 @@
    "details": {
     "95GB72XJX7.mx.com.liverpool.appcliente":{
       "paths": ["/tienda/home.jsp",
+                "/tienda/group/*",
+                "/tienda/users/credit/requestCard.jsp",
+                "/tienda/users/credit/myCards.jsp",
+                "/tienda/pdp/*/*",
+                "/tienda/common/trackOrderDetails.jsp*",
                 "/UniversalLinks/*" ]
     }
   }
