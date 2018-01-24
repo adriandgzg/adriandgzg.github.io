@@ -9,6 +9,7 @@
                 "/tienda/users/credit/myCards.jsp",
                 "/tienda/pdp/*/*",
                 "/tienda/common/trackOrderDetails.jsp*",
+                "/tienda/*/*",
                 "/UniversalLinks/*" ]
     }
   }
