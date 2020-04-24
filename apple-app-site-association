@@ -1,14 +1,11 @@
 {
-    "applinks": {
-        "details": [
-        {
-          "appIDs": ["93MTL2WL82.mx.ampm.chr.AMPM"],
-          "components": [
-            {
-              "/" : "/*"
-            }
-          ]
-        }
-      ]
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "93MTL2WL82.mx.ampm.chr.AMPM",
+      "paths": ["*"]
     }
+    ]
+  }
 }
