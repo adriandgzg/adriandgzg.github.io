@@ -1,14 +1,21 @@
 {
-    "applinks": {
-        "details": [
-        {
-          "appIDs": ["93MTL2WL82.mx.ampm.chr.AMPM"],
-          "components": [
-            {
-              "/" : "/*"
-            }
-          ]
-        }
-      ]
+ "applinks": {
+  "apps": [],
+   "details": {
+    "93MTL2WL82.mx.ampm.chr.AMPM":{
+      "paths": ["/tienda/home.jsp",
+                "/tienda/group/*",
+                "/tienda/users/credit/requestCard.jsp",
+                "/tienda/users/credit/myCards.jsp",
+                "/tienda/pdp/*/*",
+                "/tienda/common/trackOrderDetails.jsp*",
+                "/tienda/*/*",
+                "/UniversalLinks/*",
+                "/*"]
+    }
+  }
+ },
+ "webcredentials": {
+        "apps": ["93MTL2WL82.mx.ampm.chr.AMPM" ]
     }
 }
