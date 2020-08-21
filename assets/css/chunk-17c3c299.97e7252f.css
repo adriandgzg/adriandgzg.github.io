@@ -1,0 +1,1 @@
+.color{color:var(--color-primary)}.btn{background:-webkit-gradient(linear,right top,left bottom,from(var(--color-primary)),to(#fff));background:linear-gradient(to bottom left,var(--color-primary),#fff)}a{color:var(--color-primary);text-decoration:none;text-transform:uppercase}a:hover{text-decoration:underline}
